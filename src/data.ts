@@ -64,8 +64,8 @@ export const CV_DATA = {
   title: "Front-End Developer",
   bio: "Front-End Developer with hands-on experience in helping companies create and maintain a better code base for reusability. Passionate about learning and development with a desire to apply skills on a larger development team. Eager to tackle more complex problems and continue to find ways to maximize user efficiency.",
   location: "Addis Ababa, Ethiopia",
-  email: "aduniya.dev@email.com",
-  phone: "+251 (09) 3946-6359",
+  email: "aduniya.dev@gmail.com",
+  phone: "+251 (9) 3946-6359",
   website: "https://aduniya-dev.me/",
   socials: {
     github: "https://github.com/aduniya-dev",
