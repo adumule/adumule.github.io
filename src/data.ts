@@ -68,11 +68,11 @@ export const CV_DATA = {
   phone: "+251 (9) 3946-6359",
   website: "https://aduniya-dev.me/",
   socials: {
-    github: "https://github.com/aduniya-dev",
-    linkedin: "https://linkedin.com/in/aduniya-dev",
-    twitter: "https://twitter.com/aduniya_dev",
-    behance: "https://behance.net/aduniya_dev",
-    facebook: "https://facebook.com/aduniya_dev"
+    github: "https://aduniya-dev.me/",
+    linkedin: "https://aduniya-dev.me/",
+    twitter: "https://aduniya-dev.me/",
+    behance: "https://aduniya-dev.me/",
+    facebook: "https://aduniya-dev.me/"
   },
   stats: [
     { value: "25+", label: "Projects Completed" },
