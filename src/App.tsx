@@ -547,7 +547,7 @@ export default function App() {
                     <ul className="space-y-3 font-sans text-sm">
                       <li className="flex items-center gap-3"><span className="text-zinc-500 font-mono w-24 block shrink-0">Email:</span> <a href={`mailto:${CV_DATA.email}`} className="text-rose-400 hover:underline">{CV_DATA.email}</a></li>
                       <li className="flex items-center gap-3"><span className="text-zinc-500 font-mono w-24 block shrink-0">Experience:</span> <span className="text-zinc-200">3+ Years Professional</span></li>
-                      <li className="flex items-center gap-3"><span className="text-zinc-500 font-mono w-24 block shrink-0">Languages:</span> <span className="text-zinc-200">Amharic, English, Germany</span></li>
+                      <li className="flex items-center gap-3"><span className="text-zinc-500 font-mono w-24 block shrink-0">Languages:</span> <span className="text-zinc-200">Amharic, English, Arabic</span></li>
                       <li className="flex items-center gap-3"><span className="text-zinc-500 font-mono w-24 block shrink-0">Web Domain:</span> <span className="text-rose-400">{CV_DATA.website.replace("https://","")}</span></li>
                     </ul>
                   </div>
