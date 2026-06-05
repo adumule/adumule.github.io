@@ -4,6 +4,7 @@
  */
 import { useState, useEffect, FormEvent } from "react";
 import { motion, AnimatePresence } from "motion/react";
+import profileImage from './input_file_0.jpg';
 import {
   Menu,
   X,
@@ -509,7 +510,7 @@ export default function App() {
                     {/* Real Profile headshot mock */}
                     <div className="aspect-square w-full rounded-2xl overflow-hidden bg-zinc-900 relative">
                       <img 
-                        src="/input_file_0.jpg" 
+                        src={profileImage}
                         alt="Aduniya Mulugeta character caricature" 
                         className="w-full h-full object-cover block"
                         referrerPolicy="no-referrer"
